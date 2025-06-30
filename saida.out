@@ -1,0 +1,5 @@
+VCD info: dumpfile saida.vcd opened for output.
+OK: Teste 1 - leds =   3 como esperado!
+OK: Teste 2 - leds =   2 após reset, como esperado!
+OK: Teste 3 - leds =  10 após contagem contínua
+tb.v:61: $finish called at 152000 (1ps)
